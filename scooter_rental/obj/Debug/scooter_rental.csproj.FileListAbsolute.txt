@@ -1,0 +1,8 @@
+C:\Users\Gvido\Desktop\Codelex\scooter_rental\scooter_rental\obj\Debug\scooter_rental.csproj.AssemblyReference.cache
+C:\Users\Gvido\Desktop\Codelex\scooter_rental\scooter_rental\obj\Debug\scooter_rental.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gvido\Desktop\Codelex\scooter_rental\scooter_rental\obj\Debug\scooter_rental.csproj.CoreCompileInputs.cache
+C:\Users\Gvido\Desktop\Codelex\scooter_rental\scooter_rental\bin\Debug\scooter_rental.exe.config
+C:\Users\Gvido\Desktop\Codelex\scooter_rental\scooter_rental\bin\Debug\scooter_rental.exe
+C:\Users\Gvido\Desktop\Codelex\scooter_rental\scooter_rental\bin\Debug\scooter_rental.pdb
+C:\Users\Gvido\Desktop\Codelex\scooter_rental\scooter_rental\obj\Debug\scooter_rental.exe
+C:\Users\Gvido\Desktop\Codelex\scooter_rental\scooter_rental\obj\Debug\scooter_rental.pdb

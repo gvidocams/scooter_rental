@@ -1,0 +1,5 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b17e99fe_002Dcd69_002D4d98_002Da783_002Df72aa7a86446/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TotalRentalPrice_CalculatesRentalPriceBetweenFourDays_Returns80Euros" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Gvido\AppData\Local\Temp\JetBrains\ReSharperPlatformVs17\vAny_05fce4f0\CoverageData\_scooter_rental.-923340416\Snapshot\snapshot.utdcvr</s:String></wpf:ResourceDictionary>
